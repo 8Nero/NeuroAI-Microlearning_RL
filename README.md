@@ -1,9 +1,9 @@
 # NeuroAI Project: Microlearning in RL [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1upGXYJSGbPF8bScIPLihchKNIT-m7zoj?usp=sharing) 
 
 <div align="center">
-  <img src="https://github.com/8Nero/NeuroAI-Microlearning_RL/blob/main/example1.gif" />
-  <img src="https://github.com/8Nero/NeuroAI-Microlearning_RL/blob/main/example2.gif"/>
-  <img src="https://github.com/8Nero/NeuroAI-Microlearning_RL/blob/main/example3.gif"/>
+  <img src="https://github.com/8Nero/NeuroAI-Microlearning_RL/blob/main/example1.gif" width="300"  />
+  <img src="https://github.com/8Nero/NeuroAI-Microlearning_RL/blob/main/example2.gif" width="300" />
+  <img src="https://github.com/8Nero/NeuroAI-Microlearning_RL/blob/main/example3.gif" width="300" />
 </div>
 
 ## Files and Directories
