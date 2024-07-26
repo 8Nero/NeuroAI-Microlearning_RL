@@ -1,6 +1,4 @@
-# NeuroAI Project: Microlearning in RL
-
-## [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1upGXYJSGbPF8bScIPLihchKNIT-m7zoj?usp=sharing) 
+# NeuroAI Project: Microlearning in RL [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1upGXYJSGbPF8bScIPLihchKNIT-m7zoj?usp=sharing) 
 
 ## Files and Directories
 
